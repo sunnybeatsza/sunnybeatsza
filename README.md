@@ -1,4 +1,8 @@
 # 💫 About Me:
+I am a CompTIA Security+ certified professional with comprehensive knowledge of cybersecurity practices. Skilled in assessing and enhancing the security posture of enterprise environments, implementing proactive security measures, and responding to security events. Experienced in threat detection, vulnerability management, incident response, and securing hybrid environments, including cloud, mobile, and Internet of Things (IoT) infrastructures.
+In addition to my cybersecurity expertise , I am a results-driven Full Stack Web Developer with a robust skill set in HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, MongoDB, SQL and Python. Proficient in utilizing Bootstrap for responsive web design and experienced in asynchronous programming and DOM manipulation to build dynamic web applications. Adept at leveraging Express.js and Next.js to create scalable, high-performance solutions.
+
+
 🔭 I'm currently working on a security project called "Guard Zero"<br>👯 I’m looking to collaborate on a open source repository that has Java<br>🤝 I’m looking for help with bash scripting and Python automation.<br>🌱 I’m currently learning Pentesting and ethical hacking<br>💬 Ask me about JavaScript, React.js, SQL, Cybersecurity<br>⚡ Fun fact about me is that I love making music. My favorite digital audio workstation is FL studio
 
 

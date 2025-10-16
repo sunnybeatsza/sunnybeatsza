@@ -1,6 +1,16 @@
 # 💫 About Me:
-I am a CompTIA Security+ certified professional with comprehensive knowledge of cybersecurity practices. Skilled in assessing and enhancing the security posture of enterprise environments, implementing proactive security measures, and responding to security events. Experienced in threat detection, vulnerability management, incident response, and securing hybrid environments, including cloud, mobile, and Internet of Things (IoT) infrastructures.
-In addition to my cybersecurity expertise , I am a results-driven Full Stack Web Developer with a robust skill set in HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, MongoDB, SQL and Python. Proficient in utilizing Bootstrap for responsive web design and experienced in asynchronous programming and DOM manipulation to build dynamic web applications. Adept at leveraging Express.js and Next.js to create scalable, high-performance solutions.
+I am a CompTIA Security+ certified professional with a strong foundation in cybersecurity, software 
+development, and business operations. I’ve supported international clients through customer 
+advisory roles focused on service delivery, renewals, documentation, and issue resolution, gaining 
+strong analytical and communication skills. 
+
+Technically, I’m proficient in Java, SQL, Git, GitHub, GitLab, Python, Linux, Docker and full stack tools 
+including JavaScript, React, Node.js, Express.js and MongoDB. I also bring experience with Agile 
+development, REST APIs, and version control platforms, enabling me to contribute to enablement, 
+documentation, and system optimization. 
+
+This blend of technical expertise and customer-facing experience allows me to add value in both 
+collaborative and fast-paced environments. 
 
 
 🔭 I'm currently working on a data analytics project called "XuriNet"<br> I’m looking to collaborate on a open source repository that has Java<br>🤝 I’m looking for help with bash scripting and Python automation.<br>🌱 I’m currently learning Pentesting and ethical hacking<br>💬 Ask me about JavaScript, React.js, SQL, Cybersecurity<br>⚡ Fun fact about me is that I love making music. My favorite digital audio workstation is FL studio
